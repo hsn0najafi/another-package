@@ -1,0 +1,25 @@
+{
+  "name": "@hsn0najafi/another-package",
+  "version": "1.0.0",
+  "description": "Another npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsn0najafi/another-package.git"
+  },
+  "keywords": [
+    "PACKAGE"
+  ],
+  "author": "Hossein Najafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsn0najafi/another-package/issues"
+  },
+  "homepage": "https://github.com/hsn0najafi/another-package#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.1"
+  }
+}
